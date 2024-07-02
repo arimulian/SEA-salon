@@ -10,7 +10,7 @@
 
 ### Installing
 
-* clone repo on github
+* clone repo on github: https://github.com/arimulian/SEA-salon.git
 * Run in console - composer install
 * copy .env.example to .env
 * setting database name in .env
